@@ -11,7 +11,7 @@ function App() {
       wordListWithHints[Math.floor(Math.random() * wordListWithHints.length)];
     return randomWord.word;
   });
-
+  //.
   const [guessedLetters, setGuessedLetters] = useState<string[]>([]);
 
   const incorrectLetters = guessedLetters.filter(
