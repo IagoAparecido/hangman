@@ -1,0 +1,406 @@
+[
+  {
+    "word": "capaz",
+    "hint": "ter a habilidade de fazer algo"
+  },
+  {
+    "word": "sobre",
+    "hint": "relacionado a ou acerca de algo"
+  },
+  {
+    "word": "absoluto",
+    "hint": "completo ou total"
+  },
+  {
+    "word": "aceitar",
+    "hint": "concordar em receber ou aprovar algo"
+  },
+  {
+    "word": "conta",
+    "hint": "registro financeiro de transações"
+  },
+  {
+    "word": "alcançar",
+    "hint": "chegar ou atingir algo"
+  },
+  {
+    "word": "através",
+    "hint": "indica movimento ou transmissão de um lado para o outro"
+  },
+  {
+    "word": "ativo",
+    "hint": "em ação ou em uso"
+  },
+  {
+    "word": "real",
+    "hint": "genuíno ou existente"
+  },
+  {
+    "word": "endereço",
+    "hint": "local específico de um objeto ou evento"
+  },
+  {
+    "word": "admitir",
+    "hint": "permitir a entrada ou aceitar a verdade de algo"
+  },
+  {
+    "word": "anunciar",
+    "hint": "fazer uma declaração pública sobre algo"
+  },
+  {
+    "word": "afetar",
+    "hint": "ter influência ou impacto em algo"
+  },
+  {
+    "word": "condições",
+    "hint": "circunstâncias ou estado em que algo acontece"
+  },
+  {
+    "word": "depois",
+    "hint": "posterior ao tempo ou evento mencionado anteriormente"
+  },
+  {
+    "word": "tarde",
+    "hint": "em um momento avançado do dia"
+  },
+  {
+    "word": "novamente",
+    "hint": "mais uma vez"
+  },
+  {
+    "word": "contra",
+    "hint": "oposto ou em oposição a algo"
+  },
+  {
+    "word": "agente",
+    "hint": "007"
+  },
+  {
+    "word": "concordar",
+    "hint": "estar de acordo ou ter a mesma opinião"
+  },
+  {
+    "word": "permitir",
+    "hint": "dar autorização para fazer algo"
+  },
+  {
+    "word": "quase",
+    "hint": "pouco antes de algo acontecer"
+  },
+  {
+    "word": "longo",
+    "hint": "com uma extensão maior no espaço ou no tempo"
+  },
+  {
+    "word": "já",
+    "hint": "antes do momento presente ou em algum momento anterior ao esperado"
+  },
+  {
+    "word": "também",
+    "hint": "além disso; em adição a algo"
+  },
+  {
+    "word": "embora",
+    "hint": "apesar do fato mencionado"
+  },
+  {
+    "word": "sempre",
+    "hint": "em todos os momentos ou em qualquer caso"
+  },
+  {
+    "word": "América",
+    "hint": "continente"
+  },
+  {
+    "word": "Africa",
+    "hint": "continente"
+  },
+  {
+    "word": "Europa",
+    "hint": "continente"
+  },
+  {
+    "word": "quantidade",
+    "hint": "medida ou valor de algo"
+  },
+  {
+    "word": "outro",
+    "hint": "diferente ou adicional a algo já mencionado"
+  },
+  {
+    "word": "resposta",
+    "hint": "reação ou declaração em resposta a algo"
+  },
+  {
+    "word": "apartado",
+    "hint": "isolado ou separado de algo"
+  },
+  {
+    "word": "aparente",
+    "hint": "claro ou evidente"
+  },
+  {
+    "word": "aparecer",
+    "hint": "tornar-se visível ou estar presente em um lugar"
+  },
+  {
+    "word": "aplicar",
+    "hint": "usar ou implementar algo"
+  },
+  {
+    "word": "designar",
+    "hint": "atribuir ou nomear algo para uma finalidade específica"
+  },
+  {
+    "word": "abordagem",
+    "hint": "maneira ou método de lidar com algo"
+  },
+  {
+    "word": "argumentar",
+    "hint": "apresentar razões ou evidências para apoiar ou refutar algo"
+  },
+  {
+    "word": "redor",
+    "hint": "em volta de algo"
+  },
+  {
+    "word": "arranjar",
+    "hint": "organizar ou colocar em ordem; também pode se referir a conseguir ou obter algo"
+  },
+  {
+    "word": "associar",
+    "hint": "conectar"
+  },
+  {
+    "word": "atual",
+    "hint": "versão mais recente de algo"
+  },
+  {
+    "word": "acreditar",
+    "hint": "aceitar algo como verdadeiro"
+  },
+  {
+    "word": "atitude",
+    "hint": "disposição mental ou emocional em relação a algo"
+  },
+  {
+    "word": "adicionar",
+    "hint": "colocar algo junto ou incluir algo em um conjunto"
+  },
+  {
+    "word": "atividade",
+    "hint": "ação ou processo de fazer algo"
+  },
+  {
+    "word": "arquiteto",
+    "hint": "profissional que projeta e planeja estruturas e edifícios"
+  },
+  {
+    "word": "autoridade",
+    "hint": "poder ou controle sobre algo ou alguém"
+  },
+  {
+    "word": "antigo",
+    "hint": "existente ou em uso há muito tempo"
+  },
+  {
+    "word": "ação",
+    "hint": "ato ou processo de fazer algo"
+  },
+  {
+    "word": "altura",
+    "hint": "distância vertical acima do solo ou de um ponto de referência"
+  },
+  {
+    "word": "ajudar",
+    "hint": "prestar assistência ou apoio a alguém"
+  },
+  {
+    "word": "alimentar",
+    "hint": "fornecer comida ou nutrição"
+  },
+  {
+    "word": "área",
+    "hint": "região ou espaço específico de um local"
+  },
+  {
+    "word": "aplicação",
+    "hint": "ato de aplicar algo; também pode se referir a um programa de software"
+  },
+  {
+    "word": "atualmente",
+    "hint": "no momento atual; neste momento"
+  },
+  {
+    "word": "abaixo",
+    "hint": "em uma posição inferior ou mais baixa em relação a algo"
+  },
+  {
+    "word": "atribuir",
+    "hint": "atribuir ou designar uma tarefa ou responsabilidade a alguém"
+  },
+  {
+    "word": "aguardar",
+    "hint": "esperar por algo ou alguém"
+  },
+  {
+    "word": "ambiente",
+    "hint": "o entorno físico ou social em que algo existe"
+  },
+  {
+    "word": "ameaça",
+    "hint": "possibilidade de perigo ou dano; também pode se referir a uma declaração ou ação intimidadora"
+  },
+  {
+    "word": "ampliar",
+    "hint": "aumentar em tamanho, quantidade ou intensidade"
+  },
+  {
+    "word": "além",
+    "hint": "mais longe ou adicional em relação a algo; também pode se referir a uma ideia ou conceito adicional"
+  },
+  {
+    "word": "afirmação",
+    "hint": "declaração ou afirmação de algo como verdadeiro"
+  },
+  {
+    "word": "aprendizado",
+    "hint": "processo de aquisição de conhecimento ou habilidades"
+  },
+  {
+    "word": "abordar",
+    "hint": "lidar com ou enfrentar um problema ou questão"
+  },
+  {
+    "word": "armazenar",
+    "hint": "guardar ou manter algo em um local seguro"
+  },
+  {
+    "word": "aquisição",
+    "hint": "ato ou processo de adquirir algo"
+  },
+  {
+    "word": "avaliar",
+    "hint": "julgar o valor de algo"
+  },
+  {
+    "word": "apresentar",
+    "hint": "mostrar ou exibir algo a alguém"
+  },
+  {
+    "word": "antecipar",
+    "hint": "esperar ou prever algo antes que aconteça"
+  },
+  {
+    "word": "agir",
+    "hint": "tomar ação ou fazer algo"
+  },
+  {
+    "word": "atualização",
+    "hint": "ato de tornar algo atualizado ou atual"
+  },
+  {
+    "word": "assumir",
+    "hint": "tomar responsabilidade ou controle de algo"
+  },
+  {
+    "word": "após",
+    "hint": "depois de um evento ou momento específico"
+  },
+  {
+    "word": "arquivo",
+    "hint": "conjunto de registros ou documentos organizados"
+  },
+  {
+    "word": "adotar",
+    "hint": "aceitar ou começar a usar uma nova abordagem, ideia ou costume"
+  },
+  {
+    "word": "alternativa",
+    "hint": "opção ou escolha diferente de outra"
+  },
+  {
+    "word": "analisar",
+    "hint": "examinar ou estudar algo em detalhes"
+  },
+  {
+    "word": "auxiliar",
+    "hint": "ajudar ou prestar assistência a alguém"
+  },
+  {
+    "word": "atualizar",
+    "hint": "tornar algo atualizado ou moderno"
+  },
+  {
+    "word": "audiência",
+    "hint": "grupo de pessoas que ouvem ou assistem a uma apresentação ou performance"
+  },
+  {
+    "word": "adquirir",
+    "hint": "obter ou ganhar posse de algo"
+  },
+  {
+    "word": "avançado",
+    "hint": "em um estágio posterior ou mais desenvolvido; oposto de básico"
+  },
+  {
+    "word": "anterior",
+    "hint": "antes em tempo, posição ou ordem; oposto de posterior"
+  },
+  {
+    "word": "apreciar",
+    "hint": "valorizar ou reconhecer a importância ou o valor de algo"
+  },
+  {
+    "word": "apoiar",
+    "hint": "dar suporte ou ajuda a alguém ou algo"
+  },
+  {
+    "word": "aproximadamente",
+    "hint": "cerca de ou perto de um valor ou quantidade específica"
+  },
+  {
+    "word": "articular",
+    "hint": "expressar ou comunicar algo claramente e em detalhes"
+  },
+  {
+    "word": "aumento",
+    "hint": "aumento ou crescimento em quantidade, tamanho ou intensidade"
+  },
+  {
+    "word": "atraso",
+    "hint": "ação ou estado de estar atrasado ou atrasado"
+  },
+  {
+    "word": "autor",
+    "hint": "escritor ou criador de um trabalho literário ou artístico"
+  },
+  {
+    "word": "aposentar",
+    "hint": "deixar de trabalhar ou encerrar a carreira profissional"
+  },
+  {
+    "word": "adição",
+    "hint": "ato de adicionar algo a algo"
+  },
+  {
+    "word": "associado",
+    "hint": "ligado ou conectado a algo"
+  },
+  {
+    "word": "assistência",
+    "hint": "ajuda ou apoio fornecido a alguém"
+  },
+  {
+    "word": "agradecer",
+    "hint": "expressar gratidão a alguém por algo que foi feito ou dado"
+  },
+  {
+    "word": "aproveitar",
+    "hint": "tirar proveito ou benefício de algo"
+  },
+  {
+    "word": "admissão",
+    "hint": "ato de permitir que alguém entre em um lugar ou situação"
+  }
+]
