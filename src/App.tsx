@@ -3,7 +3,7 @@ import { useState, useEffect, useCallback } from "react";
 import wordListWithHints from "./wordList.json";
 import HangmanDrawing from "./components/HangmanDrawing";
 import HangmanWord from "./components/HangmanWord";
-import Keyboard from "./components/Keyboard";
+import { Keyboard } from "./components/Keyboard";
 
 function App() {
   const [wordToGuess] = useState(() => {

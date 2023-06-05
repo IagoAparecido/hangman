@@ -36,7 +36,7 @@ type KeyboardProps = {
   addGuessedLetter: (letter: string) => void;
 };
 
-function Keyboard({
+export function Keyboard({
   activeLetters,
   inactiveLetters,
   addGuessedLetter,
@@ -46,7 +46,7 @@ function Keyboard({
     <div
       style={{
         display: "grid",
-        gridTemplateColumns: "repeat(auto-fit, minmax(50px, 1fr))",
+        gridTemplateColumns: "repeat(auto-fit, minmax(75px, 1fr))",
         gap: ".5rem",
       }}
     >
@@ -69,5 +69,3 @@ function Keyboard({
     </div>
   );
 }
-
-export default Keyboard;
