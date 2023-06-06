@@ -20,24 +20,12 @@
     "hint": "registro financeiro de transações"
   },
   {
-    "word": "alcançar",
-    "hint": "chegar ou atingir algo"
-  },
-  {
-    "word": "através",
-    "hint": "indica movimento ou transmissão de um lado para o outro"
-  },
-  {
     "word": "ativo",
     "hint": "em ação ou em uso"
   },
   {
     "word": "real",
     "hint": "genuíno ou existente"
-  },
-  {
-    "word": "endereço",
-    "hint": "local específico de um objeto ou evento"
   },
   {
     "word": "admitir",
@@ -50,10 +38,6 @@
   {
     "word": "afetar",
     "hint": "ter influência ou impacto em algo"
-  },
-  {
-    "word": "condições",
-    "hint": "circunstâncias ou estado em que algo acontece"
   },
   {
     "word": "depois",
@@ -92,28 +76,12 @@
     "hint": "com uma extensão maior no espaço ou no tempo"
   },
   {
-    "word": "já",
-    "hint": "antes do momento presente ou em algum momento anterior ao esperado"
-  },
-  {
-    "word": "também",
-    "hint": "além disso; em adição a algo"
-  },
-  {
     "word": "embora",
     "hint": "apesar do fato mencionado"
   },
   {
     "word": "sempre",
     "hint": "em todos os momentos ou em qualquer caso"
-  },
-  {
-    "word": "América",
-    "hint": "continente"
-  },
-  {
-    "word": "Africa",
-    "hint": "continente"
   },
   {
     "word": "Europa",
@@ -204,10 +172,6 @@
     "hint": "existente ou em uso há muito tempo"
   },
   {
-    "word": "ação",
-    "hint": "ato ou processo de fazer algo"
-  },
-  {
     "word": "altura",
     "hint": "distância vertical acima do solo ou de um ponto de referência"
   },
@@ -218,14 +182,6 @@
   {
     "word": "alimentar",
     "hint": "fornecer comida ou nutrição"
-  },
-  {
-    "word": "área",
-    "hint": "região ou espaço específico de um local"
-  },
-  {
-    "word": "aplicação",
-    "hint": "ato de aplicar algo; também pode se referir a um programa de software"
   },
   {
     "word": "atualmente",
@@ -248,20 +204,8 @@
     "hint": "o entorno físico ou social em que algo existe"
   },
   {
-    "word": "ameaça",
-    "hint": "possibilidade de perigo ou dano; também pode se referir a uma declaração ou ação intimidadora"
-  },
-  {
     "word": "ampliar",
     "hint": "aumentar em tamanho, quantidade ou intensidade"
-  },
-  {
-    "word": "além",
-    "hint": "mais longe ou adicional em relação a algo; também pode se referir a uma ideia ou conceito adicional"
-  },
-  {
-    "word": "afirmação",
-    "hint": "declaração ou afirmação de algo como verdadeiro"
   },
   {
     "word": "aprendizado",
@@ -274,10 +218,6 @@
   {
     "word": "armazenar",
     "hint": "guardar ou manter algo em um local seguro"
-  },
-  {
-    "word": "aquisição",
-    "hint": "ato ou processo de adquirir algo"
   },
   {
     "word": "avaliar",
@@ -296,16 +236,8 @@
     "hint": "tomar ação ou fazer algo"
   },
   {
-    "word": "atualização",
-    "hint": "ato de tornar algo atualizado ou atual"
-  },
-  {
     "word": "assumir",
     "hint": "tomar responsabilidade ou controle de algo"
-  },
-  {
-    "word": "após",
-    "hint": "depois de um evento ou momento específico"
   },
   {
     "word": "arquivo",
@@ -330,10 +262,6 @@
   {
     "word": "atualizar",
     "hint": "tornar algo atualizado ou moderno"
-  },
-  {
-    "word": "audiência",
-    "hint": "grupo de pessoas que ouvem ou assistem a uma apresentação ou performance"
   },
   {
     "word": "adquirir",
@@ -380,16 +308,8 @@
     "hint": "deixar de trabalhar ou encerrar a carreira profissional"
   },
   {
-    "word": "adição",
-    "hint": "ato de adicionar algo a algo"
-  },
-  {
     "word": "associado",
     "hint": "ligado ou conectado a algo"
-  },
-  {
-    "word": "assistência",
-    "hint": "ajuda ou apoio fornecido a alguém"
   },
   {
     "word": "agradecer",
@@ -398,9 +318,5 @@
   {
     "word": "aproveitar",
     "hint": "tirar proveito ou benefício de algo"
-  },
-  {
-    "word": "admissão",
-    "hint": "ato de permitir que alguém entre em um lugar ou situação"
   }
 ]
