@@ -1,0 +1,20 @@
+.container_reload {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
+.reload {
+  width: 50px;
+}
+
+.img_reload {
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+.img_reload:hover {
+  cursor: pointer;
+  transform: scale(1.1);
+}

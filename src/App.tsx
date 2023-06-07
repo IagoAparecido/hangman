@@ -5,6 +5,8 @@ import HangmanDrawing from "./components/HangmanDrawing";
 import HangmanWord from "./components/HangmanWord";
 import { Keyboard } from "./components/Keyboard";
 
+import styles from "./App.module.css";
+
 function App() {
   const [wordToGuess] = useState(() => {
     const randomWord =
@@ -51,6 +53,10 @@ function App() {
     (wordObj) => wordObj.word === wordToGuess
   );
 
+  const refreshPage = () => {
+    window.location.reload();
+  };
+
   return (
     <div
       style={{
@@ -69,8 +75,32 @@ function App() {
           textAlign: "center",
         }}
       >
-        {isWinner && "Parabéns! - Recarregue a página para tentar novamente."}
-        {isLoser && "Perdeu! - Recarregue a página para tentar novamente."}
+        {isWinner && (
+          <div className={styles.container_reload}>
+            <div style={{ color: "green" }}>Parabéns!</div>
+            <div className={styles.reload}>
+              <img
+                className={styles.img_reload}
+                src="../src/assets/icon-reload.svg"
+                alt="Reload"
+                onClick={() => refreshPage()}
+              />
+            </div>
+          </div>
+        )}
+        {isLoser && (
+          <div className={styles.container_reload}>
+            <div style={{ color: "red" }}>Perdeu!</div>
+            <div className={styles.reload}>
+              <img
+                className={styles.img_reload}
+                src="../src/assets/icon-reload.svg"
+                alt="Reload"
+                onClick={() => refreshPage()}
+              />
+            </div>
+          </div>
+        )}
       </div>
       <div style={{ fontSize: "1.5rem" }}>Dica: {currentWord?.hint}</div>{" "}
       <HangmanDrawing numberOfGuesses={incorrectLetters.length} />
